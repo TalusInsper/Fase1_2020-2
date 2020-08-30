@@ -1,36 +1,36 @@
 # Primeira Fase Processo Seletivo - Talus Insper
 
-- [1. Sobre o desafio](#1-sobre-o-desafio)
-    - [1.1. Tutorial de Python](#11-tutorial-python)
-    - [1.2. Desafio](#12-desafio)
-- [2. Instruções para usar o git](#2-instrucoes-git)
-    - [2.1. Como forkar esse repositório](#21-fork-repositorio)
-    - [2.2. Como clonar o repositório](#22-clonar-repositorio)
-    - [2.3. Subindo suas modificações](#23-push-repositorio)
-- [3. Instruções sobre o Jupyter Notebook](#3-instrucoes-jupyter)
+- <a href="#sobre-desafio">1. Sobre o desafio</a>
+    - <a href="#tutorial-python">1.1. Tutorial de Python</a>
+    - <a href="#desafio">1.2. Desafio</a>
+- <a href="#instrucoes-git">2. Instruções para usar o git</a>
+    - <a href="#fork-repositorio">2.1. Como forkar esse repositório</a>
+    - <a href="#clone-repositorio">2.2. Como clonar o repositório</a>
+    - <a href="#subindo-repositorio">2.3. Subindo suas modificações</a>
+- <a href="#instrucoes-jupyter">3. Instruções sobre o Jupyter Notebook</a>
 - [License](#license)
 
-## 1. Sobre o desafio
+<h2 id="sobre-desafio">1. Sobre o desafio</h2>
 
 Boas-vindas, programadores! Este é o primeiro processo seletivo da Talus Insper, queremos proporcionar a vocês uma experiência única e que você possa retirar algum aprendizado desse processo.
 
 Você já ouviu falar sobre isso, então agora sejamos diretos e vamos explicar essa primeira fase.
 
-### 1.1. Tutorial de Python
+<h3 id="tutorial-python">1.1. Tutorial de Python</h3>
 
 Nesse repositório você pode achar um tutorial de Python com o nome *PS - Talus Insper - 2020.2 - Tutorial.ipynb*, garantimos que este tem todo o básico para a resolução do desafio, mas isso não significa que você não vai precisar pesquisar e testar coisas por conta própria. Essa é uma qualidade muito importante que procuramos.
 
-### 1.2. Desafio
+<h3 id="desafio">1.2. Desafio</h3>
 
 O Desafio de programação com as instruções estão no arquivo *PS - Talus Insper - 2020.2 - Desafio.ipynb*, só iremos considerar o que for modificado neste. É importante frisar que iremos baixar seu arquivo no final dessa etapa (12/09) e não iremos considerar qualquer edição após esse prazo.
 
-## 2. Instruções para usar o git
+<h2 id="instrucoes-git">2. Instruções para usar o git</h2>
 
 Para usar o git no terminal do computador (é a maneira que recomendamos), você irá precisar baixar o [git](https://git-scm.com/downloads) no seu computador e seguir as [instruções de instalação](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git), usuários de Windows não terão tanto problema nessa parte.
 
 Claro, você também precisa possuir uma conta no [GitHub](https://github.com/).
 
-### 2.1. Como forkar esse repositório
+<h3 id="fork-repositorio">2.1. Como forkar esse repositório</h3>
 
 Atenção, essa parte é __MUITO__ importante e, caso não cumpra com ela, você não estará participando do processo seletivo.
 
@@ -40,7 +40,7 @@ Para isto, basta clicar no botão de fork que existe nesse repositório. Ao faze
 
 ![imagem fork repositorio](./img/fork-repositorio.png)
 
-### 2.2. Como clonar o repositório
+<h3 id="clone-repositorio">2.2. Como clonar o repositório</h3>
 
 Uma vez que você já tenha este repositório forkado no seu perfil, entre nele, garanta que está no repositório certo, este deve ter seu nome de usuário na URL.
 
@@ -52,7 +52,7 @@ E você irá clonar, ou seja, criar uma cópia desse repositório na sua máquin
 
 Uma vez que você tenha clonado, faça modificações livremente na sua versão.
 
-### 2.3. Subindo suas modificações
+<h3 id="subindo-repositorio">2.3. Subindo suas modificações</h3>
 
 Okay, desafio feito, agora você precisa subir isso de volta no GitHub.
 
@@ -66,7 +66,7 @@ Esse comando irá criar um commit (não vamos nos estressar com o que isso signi
 
 Esse comando irá enviar as modificações de volta para o GitHub, se for a primeira vez que faz isso, talvez seja necessário autenticar os dados de login na sua conta. Entre em contato conosco se tiver qualquer problema.
 
-## 3. Instruções sobre o Jupyter Notebook
+<h2 id="instrucoes-jupyter">3. Instruções sobre o Jupyter Notebook</h2>
 
 Para editar os arquivos, você precisará ter o Anaconda em sua máquina, que você pode achar [aqui](https://www.anaconda.com/products/individual). Siga as [instruções de instalação](https://docs.anaconda.com/anaconda/install/).
 
