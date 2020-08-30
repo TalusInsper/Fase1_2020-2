@@ -66,6 +66,8 @@ Esse comando irá criar um commit (não vamos nos estressar com o que isso signi
 
 Esse comando irá enviar as modificações de volta para o GitHub, se for a primeira vez que faz isso, talvez seja necessário autenticar os dados de login na sua conta. Entre em contato conosco se tiver qualquer problema.
 
+LEMBRE-SE DE CONFERIR SE SUAS MODIFICAÇÕES FORAM ENVIADAS! E, qualquer problema, estamos a disposição para resolvê-lo.
+
 <h2 id="instrucoes-jupyter">3. Instruções sobre o Jupyter Notebook</h2>
 
 Para editar os arquivos, você precisará ter o Anaconda em sua máquina, que você pode achar [aqui](https://www.anaconda.com/products/individual). Siga as [instruções de instalação](https://docs.anaconda.com/anaconda/install/).
