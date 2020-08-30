@@ -1,13 +1,13 @@
 # Primeira Fase Processo Seletivo - Talus Insper
 
-- [1. Sobre o desafio](#sobre-o-desafio)
-    - [1.1. Tutorial de Python](#tutorial-python)
-    - [1.2. Desafio](#desafio)
-- [2. Instruções para usar o git](#instrucoes-git)
-    - [2.1. Como forkar esse repositório](#fork-repositorio)
-    - [2.2. Como clonar o repositório](#clonar-repositorio)
-    - [2.3. Subindo suas modificações](#push-repositorio)
-- [3. Instruções sobre o Jupyter Notebook](#instrucoes-jupyter)
+- [1. Sobre o desafio](#1-sobre-o-desafio)
+    - [1.1. Tutorial de Python](#11-tutorial-python)
+    - [1.2. Desafio](#12-desafio)
+- [2. Instruções para usar o git](#2-instrucoes-git)
+    - [2.1. Como forkar esse repositório](#21-fork-repositorio)
+    - [2.2. Como clonar o repositório](#22-clonar-repositorio)
+    - [2.3. Subindo suas modificações](#23-push-repositorio)
+- [3. Instruções sobre o Jupyter Notebook](#3-instrucoes-jupyter)
 - [License](#license)
 
 ## 1. Sobre o desafio
