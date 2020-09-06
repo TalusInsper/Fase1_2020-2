@@ -10,6 +10,8 @@
 - <a href="#instrucoes-jupyter">3. Instruções sobre o Jupyter Notebook</a>
 - [License](#license)
 
+Hey, qualquer dúvida nós estamos no [discord](https://discord.gg/mCp7BD) para te ajudar!
+
 <h2 id="sobre-desafio">1. Sobre o desafio</h2>
 
 Boas-vindas, programadores! Este é o primeiro processo seletivo da Talus Insper, queremos proporcionar a vocês uma experiência única e que você possa retirar algum aprendizado desse processo.
