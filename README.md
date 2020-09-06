@@ -10,7 +10,7 @@
 - <a href="#instrucoes-jupyter">3. Instruções sobre o Jupyter Notebook</a>
 - [License](#license)
 
-Hey, qualquer dúvida nós estamos no [discord](https://discord.gg/mCp7BD) para te ajudar!
+Hey, qualquer dúvida nós estamos no [discord](https://discord.gg/KmJJCbr) para te ajudar!
 
 <h2 id="sobre-desafio">1. Sobre o desafio</h2>
 
